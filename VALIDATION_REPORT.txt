@@ -1,0 +1,37 @@
+AFRICAN PROJECT LEDGER — FINAL REPOSITORY VALIDATION
+Completed: 03 August 2026
+
+PRESERVATION
+- Existing homepage visible text preserved.
+- Existing brand, navy/ivory/gold design system retained.
+- Existing dossier pages and working content retained.
+- Shared assets remain at assets/styles.css and assets/script.js.
+
+CORE PAGES COMPLETED
+- signals.html
+- coverage.html
+- subscription.html
+- editorial-policy.html
+- recruitment.html
+- about.html
+
+COMPATIBILITY AND PUBLISHING
+- subscribe.html redirects to subscription.html for old bookmarks.
+- Previously broken tanzania-sgr.html target created.
+- Public signal records moved to content/signals.json.
+- Public recruitment records moved to content/recruitment.json.
+- .pages.yml and publisher.html provide the browser publishing layer.
+
+VALIDATION COMPLETED
+- All internal HTML, stylesheet, script and fragment links resolved.
+- No duplicate HTML IDs found.
+- No form controls without names found.
+- JavaScript syntax check passed.
+- CSS parse check passed.
+- JSON and YAML parse checks passed.
+- Desktop and mobile layout checks passed for all live pages.
+- Mobile navigation interaction passed.
+- Signal search and reset interaction passed.
+- Dynamic signal and recruitment data rendering passed.
+- No known placeholder, duplicate legacy, or root-level duplicate asset files remain.
+- No likely private keys or API tokens detected.

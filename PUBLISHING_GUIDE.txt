@@ -1,0 +1,26 @@
+AFRICAN PROJECT LEDGER — 15-MINUTE PUBLISHING METHOD
+
+ONE-TIME CONNECTION
+1. Keep this repository connected to the production Cloudflare Pages project.
+2. Open app.pagescms.org and sign in with the GitHub account that can edit the repository.
+3. Grant Pages CMS access to this repository.
+4. The included .pages.yml file creates editors for Signals and Recruitment mandates.
+5. Bookmark publisher.html and the Pages CMS workspace.
+
+PUBLISH A SIGNAL
+1. Open Signals.
+2. Add a record or update an existing record.
+3. Complete headline, dates, market, region, sector, activation stage, verified summary, why it matters and dossier-page path.
+4. Set Published to on.
+5. Save.
+6. Wait for the GitHub commit to deploy through Cloudflare Pages.
+7. Check signals.html on mobile.
+
+CORRECT A SIGNAL
+Edit the existing record, change Last verified, and revise only the affected claim. Material corrections should also be stated in the relevant dossier.
+
+CLOSE A RECRUITMENT MANDATE
+Open Recruitment mandates and set Published to off. Save and check recruitment.html after deployment.
+
+SECURITY RULE
+The JSON files are public. Never place gated capital positions, contractor intelligence, friction analysis, private source records or personal candidate data in them.

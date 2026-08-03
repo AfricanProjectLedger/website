@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /publisher.html
+Disallow: /PUBLISHING_GUIDE.txt
