@@ -1,8 +1,23 @@
 [
   {
-    "id": "nigeria-dre-fund",
+    "id": "wiocc-dfc-digital-infrastructure",
     "published": true,
     "featured": true,
+    "date": "2026-09-23",
+    "verified": "2026-09-23",
+    "market": "Sub-Saharan Africa",
+    "region": "Pan-African",
+    "sector": "Digital infrastructure",
+    "stage": "Institutional Capital",
+    "headline": "DFC backs WIOCC’s pan-African digital-infrastructure platform",
+    "summary": "U.S. development-finance capital targets wholesale connectivity, data centres and metro fibre across 30 African countries.",
+    "why": "Institutional capital is moving into the enabling layer for cloud, telecom and enterprise expansion—not a routine operator upgrade.",
+    "href": "wiocc-dfc-digital-infrastructure.html"
+  },
+  {
+    "id": "nigeria-dre-fund",
+    "published": true,
+    "featured": false,
     "date": "2026-09-23",
     "verified": "2026-09-23",
     "market": "Nigeria",
