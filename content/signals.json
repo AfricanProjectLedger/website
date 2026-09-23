@@ -1,8 +1,23 @@
 [
   {
-    "id": "baleine-phase-3",
+    "id": "nigeria-dre-fund",
     "published": true,
     "featured": true,
+    "date": "2026-09-23",
+    "verified": "2026-09-23",
+    "market": "Nigeria",
+    "region": "West Africa",
+    "sector": "Energy",
+    "stage": "Financing",
+    "headline": "Nigeria moves its $300m distributed-energy fund from structuring to deployment",
+    "summary": "Commercial launch creates a dedicated capital platform for mini-grids, standalone solar and other distributed-energy assets.",
+    "why": "The fund has crossed from a planned vehicle into active deployment—an important test of scalable private-capital mobilisation for energy access.",
+    "href": "nigeria-dre-fund.html"
+  },
+  {
+    "id": "baleine-phase-3",
+    "published": true,
+    "featured": false,
     "date": "2026-07-27",
     "verified": "2026-07-27",
     "market": "Côte d’Ivoire",
