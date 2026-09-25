@@ -1,8 +1,23 @@
 [
   {
-    "id": "wiocc-dfc-digital-infrastructure",
+    "id": "dangote-kenya-refinery",
     "published": true,
     "featured": true,
+    "date": "2026-09-25",
+    "verified": "2026-09-25",
+    "market": "Kenya",
+    "region": "East Africa",
+    "sector": "Energy",
+    "stage": "Contract Award",
+    "headline": "Dangote advances 700,000 BPD Kenya refinery with $450m-plus engineering mandate",
+    "summary": "Engineers India will serve as PMC and EPCM consultant for the integrated greenfield refinery and petrochemical complex.",
+    "why": "A signed delivery mandate moves one of Africa’s largest proposed downstream assets beyond concept and into structured engineering execution.",
+    "href": "dangote-kenya-refinery.html"
+  },
+  {
+    "id": "wiocc-dfc-digital-infrastructure",
+    "published": true,
+    "featured": false,
     "date": "2026-09-23",
     "verified": "2026-09-23",
     "market": "Sub-Saharan Africa",
