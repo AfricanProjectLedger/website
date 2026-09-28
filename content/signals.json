@@ -1,8 +1,23 @@
 [
   {
-    "id": "dangote-kenya-refinery",
+    "id": "ethiopia-djibouti-fuel-corridor",
     "published": true,
     "featured": true,
+    "date": "2026-09-28",
+    "verified": "2026-09-28",
+    "market": "Ethiopia–Djibouti",
+    "region": "Cross-border",
+    "sector": "Energy & logistics",
+    "stage": "Project Launch",
+    "headline": "Ethiopia–Djibouti launch $660m cross-border fuel corridor",
+    "summary": "A 120-kilometre refined-products pipeline and major storage system will connect Damerjog with Dewele.",
+    "why": "The sovereign-backed platform links port, pipeline, storage, rail and road infrastructure around Ethiopia’s fuel-supply chain.",
+    "href": "ethiopia-djibouti-fuel-corridor.html"
+  },
+  {
+    "id": "dangote-kenya-refinery",
+    "published": true,
+    "featured": false,
     "date": "2026-09-25",
     "verified": "2026-09-25",
     "market": "Kenya",
