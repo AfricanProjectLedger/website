@@ -1,8 +1,23 @@
 [
   {
-    "id": "ethiopia-djibouti-fuel-corridor",
+    "id": "mercuria-exergy-zambia-power",
     "published": true,
     "featured": true,
+    "date": "2026-09-29",
+    "verified": "2026-09-29",
+    "market": "Zambia",
+    "region": "Southern Africa",
+    "sector": "Power",
+    "stage": "Financing Agreement",
+    "headline": "Mercuria and Exergy sign $250m Zambia power investment deal",
+    "summary": "Signed financing targets generation and transmission projects; funding remains subject to regulatory approvals.",
+    "why": "Private capital from a global energy trader targets grid and generation assets with regional power-trade potential.",
+    "href": "mercuria-exergy-zambia-power.html"
+  },
+  {
+    "id": "ethiopia-djibouti-fuel-corridor",
+    "published": true,
+    "featured": false,
     "date": "2026-09-28",
     "verified": "2026-09-28",
     "market": "Ethiopia–Djibouti",
