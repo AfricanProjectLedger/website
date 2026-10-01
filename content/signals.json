@@ -1,8 +1,23 @@
 [
   {
-    "id": "mercuria-exergy-zambia-power",
+    "id": "ebid-kano-maradi-rail",
     "published": true,
     "featured": true,
+    "date": "2026-10-01",
+    "verified": "2026-10-01",
+    "market": "Nigeria–Niger",
+    "region": "Cross-border",
+    "sector": "Transport",
+    "stage": "Financing Approval",
+    "headline": "EBID approves $100m for Kano–Maradi rail equipment",
+    "summary": "The ECOWAS development bank approved a facility for rolling stock and operational equipment for Phase II of the standard-gauge railway.",
+    "why": "Named financing for operating assets advances a major cross-border rail corridor beyond civil-works planning.",
+    "href": "ebid-kano-maradi-rail.html"
+  },
+  {
+    "id": "mercuria-exergy-zambia-power",
+    "published": true,
+    "featured": false,
     "date": "2026-09-29",
     "verified": "2026-09-29",
     "market": "Zambia",
