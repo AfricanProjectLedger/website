@@ -1,8 +1,23 @@
 [
   {
-    "id": "ebid-kano-maradi-rail",
+    "id": "ifc-infracredit-nigeria",
     "published": true,
     "featured": true,
+    "date": "2026-10-02",
+    "verified": "2026-10-02",
+    "market": "Nigeria",
+    "region": "West Africa",
+    "sector": "Infrastructure finance",
+    "stage": "Institutional Capital",
+    "headline": "IFC commits $50m to expand InfraCredit’s infrastructure-finance capacity",
+    "summary": "A signed ten-year subordinated debt facility will strengthen InfraCredit’s capital base and mobilise long-term naira financing for infrastructure.",
+    "why": "Loss-absorbing DFI capital can support a wider pipeline of locally financed projects through InfraCredit’s guarantee platform.",
+    "href": "ifc-infracredit-nigeria.html"
+  },
+  {
+    "id": "ebid-kano-maradi-rail",
+    "published": true,
+    "featured": false,
     "date": "2026-10-01",
     "verified": "2026-10-01",
     "market": "Nigeria–Niger",
