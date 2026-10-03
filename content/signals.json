@@ -1,8 +1,23 @@
 [
   {
-    "id": "ifc-infracredit-nigeria",
+    "id": "cameroon-douala-bangui-corridor",
     "published": true,
     "featured": true,
+    "date": "2026-10-03",
+    "verified": "2026-10-03",
+    "market": "Cameroon–Central African Republic",
+    "region": "Central Africa",
+    "sector": "Transport & logistics",
+    "stage": "Sovereign Financing Authorisation",
+    "headline": "Cameroon authorises €347.5m World Bank loan for Douala–Bangui corridor",
+    "summary": "A presidential decree authorises signature of the IBRD credit agreement for Cameroon’s portion of the regional corridor programme.",
+    "why": "The sovereign authorisation advances the largest national financing component of a corridor carrying over 80% of CAR’s external trade.",
+    "href": "cameroon-douala-bangui-corridor.html"
+  },
+  {
+    "id": "ifc-infracredit-nigeria",
+    "published": true,
+    "featured": false,
     "date": "2026-10-02",
     "verified": "2026-10-02",
     "market": "Nigeria",
