@@ -1,8 +1,23 @@
 [
   {
-    "id": "cameroon-douala-bangui-corridor",
+    "id": "kafue-solar-financial-close",
     "published": true,
     "featured": true,
+    "date": "2026-10-04",
+    "verified": "2026-10-04",
+    "market": "Zambia",
+    "region": "Southern Africa",
+    "sector": "Power",
+    "stage": "Financial Close",
+    "headline": "Kafue solar reaches $52.1m financial close in Zambia",
+    "summary": "FMO and BII are providing long-term project finance for a 40 MWac plant backed by a 25-year ZESCO power-purchase agreement.",
+    "why": "Financial close converts an eight-year development process into a construction-ready asset and tests delivery of Zambia’s wider GET FiT solar programme.",
+    "href": "kafue-solar-financial-close.html"
+  },
+  {
+    "id": "cameroon-douala-bangui-corridor",
+    "published": true,
+    "featured": false,
     "date": "2026-10-03",
     "verified": "2026-10-03",
     "market": "Cameroon–Central African Republic",
