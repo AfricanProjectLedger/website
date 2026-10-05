@@ -1,8 +1,23 @@
 [
   {
-    "id": "kafue-solar-financial-close",
+    "id": "morocco-airport-financing",
     "published": true,
     "featured": true,
+    "date": "2026-10-05",
+    "verified": "2026-10-05",
+    "market": "Morocco",
+    "region": "North Africa",
+    "sector": "Aviation infrastructure",
+    "stage": "Financing Agreement",
+    "headline": "Morocco signs €270m AfDB financing for airport expansion",
+    "summary": "The signed facility will modernise and expand Marrakech, Agadir, Tangier and Fez airports under the PEMIA programme.",
+    "why": "Major DFI financing converts Morocco’s aviation-capacity strategy into funded upgrades across four strategic hubs.",
+    "href": "morocco-airport-financing.html"
+  },
+  {
+    "id": "kafue-solar-financial-close",
+    "published": true,
+    "featured": false,
     "date": "2026-10-04",
     "verified": "2026-10-04",
     "market": "Zambia",
