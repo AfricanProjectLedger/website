@@ -1,8 +1,23 @@
 [
   {
-    "id": "morocco-airport-financing",
+    "id": "kenya-infrastructure-fund-deployment",
     "published": true,
     "featured": true,
+    "date": "2026-10-08",
+    "verified": "2026-10-08",
+    "market": "Kenya",
+    "region": "East Africa",
+    "sector": "Infrastructure finance",
+    "stage": "Institutional Capital Deployment",
+    "headline": "Kenya’s $2.62bn infrastructure fund begins deploying capital",
+    "summary": "The National Infrastructure Fund has begun investing its KSh340bn seed capital and expects full deployment by June 2027.",
+    "why": "The shift from institutional setup to active capital deployment creates a potential new route for financing energy, transport, digital, water and agricultural infrastructure.",
+    "href": "kenya-infrastructure-fund-deployment.html"
+  },
+  {
+    "id": "morocco-airport-financing",
+    "published": true,
+    "featured": false,
     "date": "2026-10-05",
     "verified": "2026-10-05",
     "market": "Morocco",
