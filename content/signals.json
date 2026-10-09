@@ -1,8 +1,23 @@
 [
   {
-    "id": "kenya-infrastructure-fund-deployment",
+    "id": "drc-zambia-power-interconnector",
     "published": true,
     "featured": true,
+    "date": "2026-10-09",
+    "verified": "2026-10-09",
+    "market": "DRC–Zambia",
+    "region": "Cross-border",
+    "sector": "Power transmission",
+    "stage": "Strategic Framework Agreement",
+    "headline": "Partners advance $300m DRC–Zambia power interconnector",
+    "summary": "A signed framework brings together lead equity, sovereign strategic capital and planned debt for a 700 MW cross-border transmission line.",
+    "why": "The project could become Africa’s first privately developed and financed cross-border transmission link of its kind and unlock mining-linked capacity in the Copperbelt.",
+    "href": "drc-zambia-power-interconnector.html"
+  },
+  {
+    "id": "kenya-infrastructure-fund-deployment",
+    "published": true,
+    "featured": false,
     "date": "2026-10-08",
     "verified": "2026-10-08",
     "market": "Kenya",
