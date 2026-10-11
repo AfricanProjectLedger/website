@@ -1,8 +1,23 @@
 [
   {
-    "id": "drc-zambia-power-interconnector",
+    "id": "gautrain-post-2026-concession",
     "published": true,
     "featured": true,
+    "date": "2026-10-07",
+    "verified": "2026-10-11",
+    "market": "South Africa",
+    "region": "Southern Africa",
+    "sector": "Transport & logistics",
+    "stage": "Financial Close",
+    "headline": "Gautrain concession reaches financial close on 15-year operating mandate",
+    "summary": "Sihamba Sonke Mobility has secured the Post-2026 concession for operations, maintenance and refurbishment of Gauteng's rapid-rail and feeder-bus network through 2041.",
+    "why": "Financial close activates a long-term PPP delivery cycle, including rail-system modernisation and an €800m Alstom scope across the concession period.",
+    "href": "gautrain-post-2026-concession.html"
+  },
+  {
+    "id": "drc-zambia-power-interconnector",
+    "published": true,
+    "featured": false,
     "date": "2026-10-09",
     "verified": "2026-10-09",
     "market": "DRC–Zambia",
