@@ -1,8 +1,23 @@
 [
   {
-    "id": "gautrain-post-2026-concession",
+    "id": "burundi-weza-power-electrification-ppp",
     "published": true,
     "featured": true,
+    "date": "2026-10-15",
+    "verified": "2026-10-19",
+    "market": "Burundi",
+    "region": "East Africa",
+    "sector": "Power & utilities",
+    "stage": "PPP Concession Signed",
+    "headline": "Burundi signs $1.4bn Weza Power electrification PPP",
+    "summary": "A 25-year concession is designed to mobilise US$1.4bn for distribution-network expansion and operation across roughly half the country.",
+    "why": "The signed programme targets 52,000 km of new or upgraded lines, 1.2 million new household and business connections, and first-time or improved access for an estimated 8 million people by 2030.",
+    "href": "burundi-weza-power-electrification-ppp.html"
+  },
+  {
+    "id": "gautrain-post-2026-concession",
+    "published": true,
+    "featured": false,
     "date": "2026-10-07",
     "verified": "2026-10-11",
     "market": "South Africa",
