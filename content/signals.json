@@ -1,8 +1,23 @@
 [
   {
-    "id": "burundi-weza-power-electrification-ppp",
+    "id": "world-bank-ai-compute-africa",
     "published": true,
     "featured": true,
+    "date": "2026-10-20",
+    "verified": "2026-10-21",
+    "market": "Pan-African",
+    "region": "Pan-African",
+    "sector": "Digital infrastructure",
+    "stage": "Institutional Initiative Announced",
+    "headline": "World Bank launches shared AI-compute initiative with Africa in initial focus",
+    "summary": "A new World Bank Group initiative proposes shared, pay-as-you-go GPU computing for emerging-market governments, initially focused on Africa and Latin America, with Cassava Technologies and NVIDIA named as knowledge partners.",
+    "why": "The model could shape demand for compute, data-centre, power and fibre capacity, but no country rollout, financing amount or deployment timetable has yet been disclosed.",
+    "href": "world-bank-shared-ai-compute-initiative.html"
+  },
+  {
+    "id": "burundi-weza-power-electrification-ppp",
+    "published": true,
+    "featured": false,
     "date": "2026-10-15",
     "verified": "2026-10-19",
     "market": "Burundi",
