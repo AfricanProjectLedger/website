@@ -1,8 +1,23 @@
 [
   {
-    "id": "world-bank-ai-compute-africa",
+    "id": "egypt-nefer-menya-solar-storage",
     "published": true,
     "featured": true,
+    "date": "2026-10-20",
+    "verified": "2026-10-24",
+    "market": "Egypt",
+    "region": "North Africa",
+    "sector": "Power & utilities",
+    "stage": "Financing",
+    "headline": "Nefer Minya secures up to $566m for 1.2 GW solar-plus-storage project",
+    "summary": "HAU Energy and Infinity Power announced a debt package of up to US$566m for a 1.2 GW solar PV plant paired with 600 MWh of battery storage in Minya.",
+    "why": "The package includes up to US$265m arranged by EBRD and sits behind a 25-year power purchase agreement with Egypt’s transmission company. The combined generation-and-storage asset is expected to become Africa’s largest solar PV plant.",
+    "href": "egypt-nefer-menya-solar-storage-financing.html"
+  },
+  {
+    "id": "world-bank-ai-compute-africa",
+    "published": true,
+    "featured": false,
     "date": "2026-10-20",
     "verified": "2026-10-21",
     "market": "Pan-African",
