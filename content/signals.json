@@ -1,8 +1,23 @@
 [
   {
-    "id": "egypt-nefer-menya-solar-storage",
+    "id": "egypt-scatec-ebrd-renewables-platform",
     "published": true,
     "featured": true,
+    "date": "2026-10-22",
+    "verified": "2026-10-25",
+    "market": "Egypt",
+    "region": "North Africa",
+    "sector": "Power & utilities",
+    "stage": "Investment Platform Signed",
+    "headline": "Scatec and EBRD establish Egypt platform targeting 3.6 GW of renewables",
+    "summary": "Scatec and EBRD have established Egypt Renewables Holdings B.V., with up to US$221m committed by EBRD to a platform targeting 2.7 GW of solar, 900 MW of wind and 4.2 GWh of battery storage.",
+    "why": "The platform combines developer and multilateral capital to finance a substantial pipeline of generation and storage assets. The US$221m is EBRD's platform commitment, not the full capital cost of the target portfolio; project-level financing and delivery milestones remain the next proof points.",
+    "href": "egypt-scatec-ebrd-renewables-platform.html"
+  },
+  {
+    "id": "egypt-nefer-menya-solar-storage",
+    "published": true,
+    "featured": false,
     "date": "2026-10-20",
     "verified": "2026-10-24",
     "market": "Egypt",
